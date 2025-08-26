@@ -1,5 +1,1 @@
-Hello from master branch
-<<<<<<< HEAD
-This line is added in the maiin branch.
-This line is added in the feature branch.
->>>>>>> feature
+I am coder
